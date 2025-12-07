@@ -35,19 +35,25 @@ Webcam → Mediapipe Detection → Face Crop → FaceNet Embedding
 FaceAuthSystem/
 │
 ├── src/
-│ ├── enroll_user.py
-│ ├── liveness.py
-│ ├── main_system.py
-│ └── utils/
+│   ├── main_system.py
+│   ├── enroll_user.py
+│   ├── liveness.py
+│   └── utils/
+│       ├── embeddings_utils.py
+│       ├── liveness_utils.py
+│       └── file_utils.py
 │
 ├── embeddings/
+│   └── .gitkeep        
+│
 ├── logs/
-├── models/
+│   └── .gitkeep        
 │
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
+
 
 ```
 ---
