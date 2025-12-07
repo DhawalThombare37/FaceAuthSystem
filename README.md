@@ -59,19 +59,23 @@ FaceAuthSystem/
 ```bash
 git clone https://github.com/DhawalThombare37/FaceAuthSystem
 cd FaceAuthSystem
+```
 
 ### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🧪 Usage
 ### Enroll User
 ```bash
 python src/enroll_user.py
+```
 
 ### Run Full System
 ```bash
 python src/main_system.py
+```
 
 ---
 ## Keyboard Controls
