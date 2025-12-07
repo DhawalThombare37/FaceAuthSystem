@@ -30,9 +30,8 @@ Webcam → Mediapipe Detection → Face Crop → FaceNet Embedding
 
 
 ---
-```markdown
 ## 📁 Project Structure
-
+```markdown
 FaceAuthSystem/
 │
 ├── src/
