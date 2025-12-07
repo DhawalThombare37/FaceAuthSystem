@@ -76,6 +76,10 @@ pip install -r requirements.txt
 ```bash
 python src/enroll_user.py
 ```
+### Make sure your user embeddings are stored properly as .npy files 
+```bash
+Alice.npy
+```
 
 ### Run Full System
 ```bash
