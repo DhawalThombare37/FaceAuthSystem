@@ -1,1 +1,9 @@
+torch
+torchvision
+facenet-pytorch
+mediapipe
+opencv-python
+numpy
+pandas
+scikit-learn
 
