@@ -1,1 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual env
+env/
+venv/
+.venv/
+
+# Logs & Output
+logs/
+*.csv
+
+# User data
+embeddings/
+*.npy
+
+# Models
+models/*.pth
+models/*.pt
 
