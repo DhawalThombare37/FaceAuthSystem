@@ -87,28 +87,28 @@ python src/main_system.py
 
 ---
 
-##🧩 Tech Stack
-~Face Detection → Mediapipe
-~Liveness Detection → FaceMesh EAR
-~Face Embedding → FaceNet (InceptionResnetV1)
-~Matching → Cosine Similarity
-~Logs → Pandas CSV
+## 🧩 Tech Stack
+- Face Detection → Mediapipe
+- Liveness Detection → FaceMesh EAR
+- Face Embedding → FaceNet (InceptionResnetV1)
+- Matching → Cosine Similarity
+- Logs → Pandas CSV
 
 ---
 
-##📈 Future Enhancements
-~Streamlit Web App
-~Anti-Spoofing CNN
-~Encrypted Embedding Storage
-~Dashboard
+## 📈 Future Enhancements
+- Streamlit Web App
+- Anti-Spoofing CNN
+- Encrypted Embedding Storage
+- Dashboard
 
 ---
 
-##📝 License
+## 📝 License
 MIT License.
 
 ---
-##⭐ Support
+## ⭐ Support
 If you found this useful, give the repo a ⭐ on GitHub!
 
 
